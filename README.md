@@ -1,1 +1,1 @@
-# Matty-Geolocation-App
+# Mapty-Geolocation-App
